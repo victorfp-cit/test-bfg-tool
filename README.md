@@ -1,3 +1,3 @@
 # test-bfg-tool
 
-URL Example http://abc:test@repo.com
+URL Example http://abc:***REMOVED***@repo.com
